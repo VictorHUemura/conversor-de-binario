@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Copse&display=swap');
+
+html{
+     font-family:"Copse", serif;
+     background-color: #127369;
+}
+
+.imageBinary{
+     width: 100px;
+}
+
+.title{
+     display:flex;
+     margin-top:20px;
+}
+
+main{
+     display:flex;
+     justify-content:center;
+     background-color:#4C5958;
+     color:#BFBFBF;
+     height: 200px;
+}
+
+.digiteAndResult{
+     margin-top:20px;
+     display:flex;
+     flex-direction:column;
+     align-items:center;
+}
+
+#showe{
+     width:100px;
+     heigth:20px;
+     border-radius:20px;
+     border: 0px;
+     background-color:#127369;
+     color:#BFBFBF; 
+}
+
+#bin{
+     margin-bottom:10px;
+}
